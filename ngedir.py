@@ -3,7 +3,7 @@
 #=============================
 # 31 Agustus 2018
 # Author : @zetc0de
-# NgeSec | https://ngesec.id
+# Remove a credit doesn't make you look like coder ~ @Ytyao xD
 #=============================
 
 import sys
