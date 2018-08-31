@@ -1,0 +1,7 @@
+.env
+.git/config
+robots.txt
+backup.zip
+backup.sql
+backup.txt
+
